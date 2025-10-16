@@ -1,0 +1,5 @@
+{
+  "name": "CanvasIligan - Electronics Search",
+  "description": "An intelligent search engine to find electronic components in local Iligan stores. Search by component name, function, or description to get relevant results from local inventories.",
+  "requestFramePermissions": []
+}
