@@ -1,3 +1,5 @@
+> **Superseded:** this v1 prototype is replaced by [MirkoLouis/CanvasIligan-Ver3](https://github.com/MirkoLouis/CanvasIligan-Ver3), the final version. Its full history lives there under the tag [`v1-prototype`](https://github.com/MirkoLouis/CanvasIligan-Ver3/tree/v1-prototype). This repository is archived.
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
